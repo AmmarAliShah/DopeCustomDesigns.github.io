@@ -602,7 +602,7 @@ header .navbar-default .navbar-header {
 	background: #051d36;
 	text-align: center;
 	padding-bottom: 30px;
-	min-height: 280px;
+	height: 400px;
 	margin-bottom: 30px;
 	position: relative;
 	border-bottom: solid #007dea 3px;
@@ -617,6 +617,10 @@ header .navbar-default .navbar-header {
 	font-weight: 500;
 	transition: all 0.3s ease 0s;
 	letter-spacing: 0px;
+}
+
+.box-img img {
+	height: 300px;
 }
 
 .box-img:hover {
@@ -3014,6 +3018,7 @@ html .ui-button.ui-state-disabled:active {
 }
 
 .feature {
+	height: 150px;
 	margin-bottom: 110px;
 }
 
