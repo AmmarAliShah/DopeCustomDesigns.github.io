@@ -172,7 +172,7 @@ header .navbar-default .navbar-header {
 
 .web-sh.navbar-form input::-moz-placeholder {
 	/* Firefox 19+ */
-	color #474747;
+	color: #474747;
 	opacity: 1;
 }
 
@@ -2931,7 +2931,7 @@ html .ui-button.ui-state-disabled:active {
 	font-size: 50px;
 	font-weight: 400;
 	line-height: 56px;
-	margin-bottom: 30px;
+	margin-bottom: 100px;
 	color: #fff;
 }
 
@@ -3401,4 +3401,5 @@ html .ui-button.ui-state-disabled:active {
 .bg_img_right img {
 	width: 100%;
 }
+
 
