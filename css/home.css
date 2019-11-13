@@ -106,7 +106,7 @@ a:focus {
 
 .frame__title {
 	font-size: 1rem;
-	margin: 0 0 1rem;
+	margin: 0;
 }
 
 .frame__links {
@@ -120,7 +120,7 @@ a:focus {
 }
 
 .frame__demos {
-	margin: 1rem 0;
+	margin: 0;
 }
 
 .frame__demo--current,

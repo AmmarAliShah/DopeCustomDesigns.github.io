@@ -278,7 +278,7 @@
 
 .pricing-header h2 {
     margin-top: 0;
-	font-size: 25px;
+	font-size: 20px;
 	margin-bottom: 0;
 	line-height: 33px;
 }
@@ -643,4 +643,8 @@
     -o-transform: perspective(2000px) rotateY(0);
     transform: perspective(2000px) rotateY(0);
   }
+}
+
+.pricing-wrapper li {
+  height: 200px;
 }
