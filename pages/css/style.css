@@ -3492,3 +3492,5 @@ html .ui-button.ui-state-disabled:active {
   .icon-row .col-md-4 {
 	  padding: 0;
   }
+
+  .panel-group {text-transform: capitalize;}
