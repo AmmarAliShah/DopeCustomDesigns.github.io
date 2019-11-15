@@ -766,3 +766,9 @@
 .pricing-button.is-featured:active {
   background-color: #269aff;
 }
+
+#priceHead {
+  border: 1px solid black;
+  background: black;
+  color: white;
+}
