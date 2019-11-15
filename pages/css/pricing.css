@@ -721,9 +721,13 @@
 
 .pricing-features-item {
   border-top: 1px solid #e1f1ff;
-  font-size: 12px;
+  font-size: 24px;
   line-height: 1.5;
   padding: 15px 0;
+}
+
+.pricing-features-item span {
+  font-size: 30px;
 }
 
 .pricing-features-item:last-child {

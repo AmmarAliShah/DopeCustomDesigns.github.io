@@ -1708,10 +1708,14 @@ header .navbar-default .navbar-header {
 
 .main-template-about .does-box .panel-body p {
 	color: #333;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 400;
 	line-height: 32px;
 	margin-bottom: 40px;
+}
+
+.main-template-about .does-box .panel-body li {
+	font-size: 18px;
 }
 
 .main-template-about .does-box img {
@@ -1731,14 +1735,14 @@ header .navbar-default .navbar-header {
 
 .main-template-about .create h2 {
 	color: #9aa9ba;
-	font-size: 28px;
+	font-size: 40px;
 	font-weight: 400;
 	line-height: 56px;
 }
 
 .main-template-about .create p {
 	color: #9aa9ba;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 400;
 	line-height: 32px;
 	margin-bottom: 40px;
@@ -3492,3 +3496,7 @@ html .ui-button.ui-state-disabled:active {
   }
 
   .panel-group {text-transform: capitalize;}
+
+  .pricing-plan img {
+	  width: 25%;
+  }
