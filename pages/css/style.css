@@ -146,7 +146,6 @@ header .navbar-default .navbar-header {
 	border: none;
 }
 
-.left-rs {}
 
 .navbar-brand>img {
 	width: 110px;
@@ -434,8 +433,6 @@ header .navbar-default .navbar-header {
 /*------------------------------------------------------------- 
 	4. PAGE CONTENT PRODUCT
 -------------------------------------------------------------*/
-
-.page-content-product {}
 
 .main-product {
 	background-color: #09284b;
